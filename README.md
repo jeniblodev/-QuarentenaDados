@@ -1,14 +1,20 @@
 # #QuarentenaDados
- 
- Hey Devs!
 
-A #QuarentenaDados foi uma maratona de aulas da Alura sobre ciência de dados. As aulas foram focadas em Python e foram trabalhados assuntos como análise exploratória de dados, gráficos, estatística prática, bibliotecas do Python, previsões, machine learning entre outros.
+## 📋 Descrição
+
+Hey Devs!
+
+A [#QuarentenaDados](https://www.alura.com.br/quarentenadados) foi uma maratona de aulas da Alura sobre ciência de dados. As aulas foram focadas em Python e foram trabalhados assuntos como análise exploratória de dados, gráficos, estatística prática, bibliotecas do Python, previsões, machine learning entre outros.
 
 Nesse repositório estão todos os desafios que desenvolvi durante essa maratona.
 
 =)
 
-Projetos disponíveis de cada aula:
+## 🖥️ Tecnologias
+
+- Python
+
+## 🎨 Projetos
 
 **Aula 01**
 
