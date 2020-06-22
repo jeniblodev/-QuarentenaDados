@@ -15,6 +15,7 @@ Nesse repositório estão todos os desafios que desenvolvi durante essa maratona
 - Python
 
 ## 🎨 Projetos
+*✓ Finalizado*
 
 **Aula 01**
 
